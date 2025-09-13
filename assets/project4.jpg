@@ -1,0 +1,15 @@
+<svg width="400" height="300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grad4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#a0;stop-color:#4f46e5;stop-opacity:0.8" />
+      <stop offset="100%" style="stop-color:#06b6d4;stop-opacity:0.9" />
+    </linearGradient>
+  </defs>
+  <rect width="400" height="300" fill="url(#grad4)"/>
+  <rect x="50" y="50" width="300" height="200" fill="rgba(255,255,255,0.1)" rx="10"/>
+  <text x="200" y="130" font-family="Arial, sans-serif" font-size="24" font-weight="bold" text-anchor="middle" fill="white">Project 4</text>
+  <text x="200" y="160" font-family="Arial, sans-serif" font-size="14" text-anchor="middle" fill="rgba(255,255,255,0.8)">Portfolio Item</text>
+  <circle cx="100" cy="100" r="15" fill="rgba(255,255,255,0.3)"/>
+  <circle cx="130" cy="100" r="10" fill="rgba(255,255,255,0.2)"/>
+  <rect x="160" y="90" width="120" height="20" fill="rgba(255,255,255,0.2)" rx="5"/>
+</svg>
